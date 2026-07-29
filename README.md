@@ -15,7 +15,7 @@ The projects demonstrate knowledge of:
 - Memory management
 - Header files
 
-  ## Algorithms
+## Algorithms
 
   ### Student Number Validation (Constant Space)
 
@@ -55,7 +55,7 @@ Characteristics:
 
 This implementation is significantly faster because sorting reduces the number of comparisons required. The trade-off is increased memory usage since all student numbers must be stored before processing.
  
-  ## Matrix Operations (C++)
+## Matrix Operations (C++)
 
 Implemented matrix operations using multiple header files.
 
@@ -66,7 +66,7 @@ Features:
 - Matrix multiplication
 - Modular project structure
 
-  ## Multithreading (C)
+## Multithreading (C)
 
 Implemented thread creation and synchronization using C.
 
